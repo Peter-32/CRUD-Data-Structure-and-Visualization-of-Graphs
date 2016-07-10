@@ -1,6 +1,6 @@
 # CRUD-Data-Structure-and-Visualization-of-Graphs
 
-The "CRUD Data Structure and Visualization of Graphs" project allows a user to create example graphs using simple console commands.
+The "CRUD Data Structure and Visualization of Graphs" project allows a user to create example graphs using simple console commands.  The node and edge data structures can also be reused in another project.
 
 Main Methods:
 - create, read, update, and delete nodes and edges
