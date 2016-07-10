@@ -1,0 +1,8 @@
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\C_sharp_mini_exercises\Data Structure for Graphs\bin\Debug\Data Structure for Graphs.exe.config
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\C_sharp_mini_exercises\Data Structure for Graphs\bin\Debug\Data Structure for Graphs.exe
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\C_sharp_mini_exercises\Data Structure for Graphs\bin\Debug\Data Structure for Graphs.pdb
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\C_sharp_mini_exercises\Data Structure for Graphs\obj\Debug\Data Structure for Graphs.csprojResolveAssemblyReference.cache
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\C_sharp_mini_exercises\Data Structure for Graphs\obj\Debug\Data_Structure_for_Graphs.GraphWind.resources
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\C_sharp_mini_exercises\Data Structure for Graphs\obj\Debug\Data Structure for Graphs.csproj.GenerateResource.Cache
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\C_sharp_mini_exercises\Data Structure for Graphs\obj\Debug\Data Structure for Graphs.exe
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\C_sharp_mini_exercises\Data Structure for Graphs\obj\Debug\Data Structure for Graphs.pdb
